@@ -123,8 +123,8 @@
     <Import Include="Word = Microsoft.Office.Interop.Word" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="ActionsPaneControl1.resx">
-      <DependentUpon>ActionsPaneControl1.vb</DependentUpon>
+    <EmbeddedResource Include="ActionsPaneControlEscolaridad.resx">
+      <DependentUpon>ActionsPaneControlEscolaridad.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ActionsPaneControlSexo.resx">
       <DependentUpon>ActionsPaneControlSexo.vb</DependentUpon>
@@ -133,10 +133,10 @@
       <DependentUpon>ThisDocument.vb</DependentUpon>
     </EmbeddedResource>
     <None Include="pacienteNuevo.docx" />
-    <Compile Include="ActionsPaneControl1.Designer.vb">
-      <DependentUpon>ActionsPaneControl1.vb</DependentUpon>
+    <Compile Include="ActionsPaneControlEscolaridad.Designer.vb">
+      <DependentUpon>ActionsPaneControlEscolaridad.vb</DependentUpon>
     </Compile>
-    <Compile Include="ActionsPaneControl1.vb">
+    <Compile Include="ActionsPaneControlEscolaridad.vb">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="ActionsPaneControlSexo.Designer.vb">

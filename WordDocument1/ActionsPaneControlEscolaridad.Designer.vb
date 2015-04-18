@@ -1,5 +1,5 @@
 ﻿<System.ComponentModel.ToolboxItemAttribute(False)> _
-Partial Public Class ActionsPaneControl1
+Partial Public Class ActionsPaneControlEscolaridad
     Inherits System.Windows.Forms.UserControl
 
     <System.Diagnostics.DebuggerNonUserCode()> _
